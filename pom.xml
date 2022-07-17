@@ -8,7 +8,7 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nikini</groupId>
+	<groupId>com.gawesh</groupId>
 	<artifactId>rentacar-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rentacar-demo</name>
