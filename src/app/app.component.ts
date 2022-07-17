@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'cosmos-ems';
+  title = 'COSMOS Employee Management Solution';
+  fullName: string = ''
 }
